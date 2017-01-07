@@ -36,7 +36,13 @@ Correspondence:
 - La: Break into groups, find a breach report
 - Th: The early history of hackers
 - HW: None
-- Reading: 
+- Reading:
+    - Max Headroom Hack - https://motherboard.vice.com/read/headroom-hacker
+   - The Morris Worm - https://www.washingtonpost.com/news/the-switch/wp/2013/11/01/how-a-grad-student-trying-to-build-the-first-botnet-brought-the-internet-to-its-knees/
+    - A Flaw in the Design - http://www.washingtonpost.com/sf/business/2015/05/30/net-of-insecurity-part-1/
+    - A Long Life of a Quick Fix - http://www.washingtonpost.com/sf/business/2015/05/31/net-of-insecurity-part-2/
+    - A Disaster Foretold and Ignored - http://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/
+    - "Hacker's Manifesto" - http://phrack.org/issues/7/3.html
 
 ## Week 2 - Policy, Threat Modeling, and The Mindset
 - Tu: Threat modeling, class scenarios
@@ -53,6 +59,7 @@ Correspondence:
 - Qz: On this week's topic
 - HW: TBD
 - Reading:
+   - Stuxnet - https://www.wired.com/2011/07/how-digital-detectives-deciphered-stuxnet/
 
 ## Week 4 - Cryptography
 - Tu: An overview: symmetric, asymetric, hashing, certs
@@ -61,6 +68,9 @@ Correspondence:
 - Qz: On this week's topic
 - HW: Crypto exploitation report
 - Reading:
+   - Cypher Wars - https://archive.wired.com/wired/archive//2.11/cypher.wars.html
+   - "Cryptic Controversy: U.S. Government Restrictions on Cryptography Exports and the Plight of Philip Zimmermann" - http://readingroom.law.gsu.edu/cgi/viewcontent.cgi?article=2264&context=gsulr
+   - "Why I Wrote PGP" - https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html
 
 ## Week 5 - Networking
 - Tu: Down the rabbit hole
