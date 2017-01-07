@@ -32,11 +32,11 @@ Correspondence:
 # Weekly Schedule
 
 ## Week 1 - Overview
-- Tu: Me, class policies, terminology, industry overview, ethics
-- La: Break into groups, find a breach report
-- Th: The early history of hackers
-- HW: None
-- Reading:
+- Tu - Me, class policies, terminology, industry overview, ethics
+- La - Break into groups, find a breach report
+- Th - The early history of hackers
+- HW - None
+- Reading -
     - Max Headroom Hack - https://motherboard.vice.com/read/headroom-hacker
    - The Morris Worm - https://www.washingtonpost.com/news/the-switch/wp/2013/11/01/how-a-grad-student-trying-to-build-the-first-botnet-brought-the-internet-to-its-knees/
     - A Flaw in the Design - http://www.washingtonpost.com/sf/business/2015/05/30/net-of-insecurity-part-1/
