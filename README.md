@@ -50,7 +50,7 @@ Correspondence:
 - Th - Enterprise policies
 - Qz - On this week's topic
 - HW - Threat model enterprise policies
-- Reading:
+- Reading -
 
 ## Week 3 - Malware
 - Tu - Malware
