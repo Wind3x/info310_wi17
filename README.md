@@ -18,7 +18,7 @@ Grade breakdown:
 - final: 20%
 
 Late penalty: 
-- 10% daily, incremented in 10% steps (24hrs from time due)
+- point ceiling goes down 10% daily, in 10% steps (24hrs from time due)
 - stops at 50% deduction
 
 Reading:
