@@ -38,7 +38,7 @@ Correspondence:
 - HW - None
 - Reading -
     - Max Headroom Hack - https://motherboard.vice.com/read/headroom-hacker
-   - The Morris Worm - https://www.washingtonpost.com/news/the-switch/wp/2013/11/01/how-a-grad-student-trying-to-build-the-first-botnet-brought-the-internet-to-its-knees/
+    - The Morris Worm - https://www.washingtonpost.com/news/the-switch/wp/2013/11/01/how-a-grad-student-trying-to-build-the-first-botnet-brought-the-internet-to-its-knees/
     - A Flaw in the Design - http://www.washingtonpost.com/sf/business/2015/05/30/net-of-insecurity-part-1/
     - A Long Life of a Quick Fix - http://www.washingtonpost.com/sf/business/2015/05/31/net-of-insecurity-part-2/
     - A Disaster Foretold and Ignored - http://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/
@@ -46,11 +46,11 @@ Correspondence:
 
 ## Week 2 - Policy, Threat Modeling, and The Mindset
 - Tu - Threat modeling, class scenarios
-- La - Find a public breach, make a policy based mitigation
+- La - Threat model a real application
 - Th - Enterprise policies
 - Qz - On this week's topic
-- HW - Threat model enterprise policies
-- Reading -
+- HW - Find a public breach, make a policy based mitigation
+- Reading - 
 
 ## Week 3 - Malware
 - Tu - Malware
