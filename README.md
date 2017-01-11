@@ -46,7 +46,7 @@ Correspondence:
 
 ## Week 2 - Policy, Threat Modeling, and The Mindset
 - Tu - Threat modeling, class scenarios
-- La - Threat model a real application
+- La - Threat model a real application - The Silk Road
 - Th - Enterprise policies
 - Qz - On this week's topic
 - HW - Find a public breach, make a policy based mitigation
