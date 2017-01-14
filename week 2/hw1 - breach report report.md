@@ -1,4 +1,4 @@
-## Breach Report Report
+## Breach Report Report (28 points)
 
 Note: This is not a collaborative homework assignment. You should complete this on your own.
 
