@@ -46,26 +46,37 @@ Correspondence:
 
 ## Week 2 - Policy, Threat Modeling, and The Mindset
 - Tu - Threat modeling, class scenarios
-- La - Threat model a real application - The Silk Road
+- La - Threat model a real application - The Silk Road 3.0
 - Th - Enterprise policies
-- Qz - On this week's topic
-- HW - Find a public breach, make a policy based mitigation
+- Qz - On this week's topics
+- HW - Breach report report
 - Reading - 
+    - http://www.washingtonpost.com/sf/business/2015/05/30/net-of-insecurity-part-1/
+    - http://www.washingtonpost.com/sf/business/2015/05/31/net-of-insecurity-part-2/
+    - http://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/
+    - http://www.washingtonpost.com/sf/business/2015/07/22/hacks-on-the-highway/
+    - http://www.washingtonpost.com/sf/business/2015/11/05/net-of-insecurity-the-kernel-of-the-argument/
 
 ## Week 3 - Malware
 - Tu - Malware
 - La - TBD
 - Th - Forensics and IR
-- Qz - On this week's topic
+- Qz - On this week's topics
 - HW - TBD
 - Reading -
    - Stuxnet - https://www.wired.com/2011/07/how-digital-detectives-deciphered-stuxnet/
+   - Duqu - https://www.wired.com/2011/10/son-of-stuxnet-in-the-wild/
+   - Flame pt1 - https://www.wired.com/2012/05/flame/
+   - Flame pt2 - https://www.wired.com/2012/09/flame-coders-left-fingerprints/
+   - Extra:
+      - https://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-russian-underground-101.pdf
+      - https://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-the-mobile-cybercriminal-underground-market-in-china.pdf
 
 ## Week 4 - Cryptography
 - Tu - An overview: symmetric, asymetric, hashing, certs
 - La - Crypto puzzles
 - Th - Crypto attacks
-- Qz - On this week's topic
+- Qz - On this week's topics
 - HW - Crypto exploitation report
 - Reading -
    - Cypher Wars - https://archive.wired.com/wired/archive//2.11/cypher.wars.html
@@ -76,7 +87,7 @@ Correspondence:
 - Tu - Down the rabbit hole
 - La - MITM the bots
 - Th - Network exploits
-- Qz - On this week's topic
+- Qz - On this week's topics
 - HW - Network exploitation report
 - Reading -
 
@@ -84,7 +95,7 @@ Correspondence:
 - Tu - Web technologies
 - La - Your first web exploit
 - Th - Web application exploitation
-- Qz - On this week's topic
+- Qz - On this week's topics
 - HW - XSS and SQLi challenges
 - Reading -
 
@@ -92,7 +103,7 @@ Correspondence:
 - Tu - Low level memory management
 - La - A buffer overflow together
 - Th - Buffer overflows
-- Qz - On this week's topic
+- Qz - On this week's topics
 - HW - Buffer overflow challenges
 - Reading -
 
@@ -100,7 +111,7 @@ Correspondence:
 - Tu - Common coding mistakes
 - La - Spot and exploit the mistake
 - Th - More common coding mistakes
-- Qz - On this week's topic
+- Qz - On this week's topics
 - HW - Spot the mistakes
 - Reading -
 
@@ -108,7 +119,7 @@ Correspondence:
 - Tu - How to social engineer
 - La - Information gathering expedition
 - Th - How to prevent social engineering
-- Qz - On this week's topic
+- Qz - On this week's topics
 - HW - Case a place
 - Reading -
 
@@ -116,7 +127,7 @@ Correspondence:
 - Tu - Personal operational security
 - La - Course review
 - Th - The industry and certifications
-- Qz - On this week's topic
+- Qz - On this week's topics
 - HW - Study
 
 ## Final - Tuesday, March 14, 2017, 630-820 pm, JHN 075
