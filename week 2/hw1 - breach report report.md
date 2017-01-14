@@ -7,6 +7,7 @@ In the resources folder on Github there is a breach-reports folder. Choose a bre
 
 ### Deliverables
 Read over the breach report you chose and use it to answer the following questions. Your responses should be roughly 2-5 sentences in length and geared towards a semi-technical audience, such as a fellow Informatics student. The responses should go into enough detail that someone who hasn't taken this class can understand it.
+
 1. What is the breach you chose?
 2. What is the asset that the hackers stole, or were attempting to steal?
 3. What is the component that the hackers exploited in the process of stealing or attempting to steal the aforementioned  asset?
