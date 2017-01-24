@@ -73,9 +73,9 @@ Correspondence:
       - https://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-the-mobile-cybercriminal-underground-market-in-china.pdf
 
 ## Week 4 - Cryptography
-- Tu - An overview: symmetric, asymetric, hashing, certs
-- La - Crypto puzzles
-- Th - Crypto attacks
+- Tu - Crypto introduction
+- La - Canceled
+- Th - Crypto applied
 - Qz - On this week's topics
 - HW - Crypto exploitation report
 - Reading -
