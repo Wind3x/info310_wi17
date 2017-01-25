@@ -74,7 +74,7 @@ Correspondence:
 
 ## Week 4 - Cryptography
 - Tu - Crypto introduction
-- La - Canceled
+- La - Canceled. Go home and re-watch any videos that confused you. 
 - Th - Crypto applied
 - Qz - On this week's topics
 - HW - Crypto exploitation report
