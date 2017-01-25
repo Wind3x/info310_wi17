@@ -8,7 +8,7 @@
 	6. Perfect Secrecy & Pseudorandomness [10:30] - https://www.youtube.com/watch?v=FfZurPKYM2w&index=6&list=PLB4D701646DAF0817
 	7. Diffie-Hellman Key Exchange [8:33] - https://www.youtube.com/watch?v=6NcDVERzMGw&index=7&list=PLB4D701646DAF0817
 	8. RSA Encryption [16:36] - https://www.youtube.com/watch?v=vgTtHV04xRI&index=8&list=PLB4D701646DAF0817
-<< break >>
-2. Password Security and Cryptographic Hash Functions [9:07] - https://www.youtube.com/watch?v=1MIdQ57fMdU
-3. Password Dictionary Attacks [7:49] - https://www.youtube.com/watch?v=4JLqR8wKI6I
-4. Password Cracking [20:19] - https://www.youtube.com/watch?v=7U-RbOKanYs
+2. << break >>
+3. Password Security and Cryptographic Hash Functions [9:07] - https://www.youtube.com/watch?v=1MIdQ57fMdU
+4. Password Dictionary Attacks [7:49] - https://www.youtube.com/watch?v=4JLqR8wKI6I
+5. Password Cracking [20:19] - https://www.youtube.com/watch?v=7U-RbOKanYs
