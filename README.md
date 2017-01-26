@@ -77,7 +77,7 @@ Correspondence:
 - La - Canceled. Go home and re-watch any videos that confused you. 
 - Th - Crypto applied
 - Qz - On this week's topics
-- HW - Crypto exploitation report
+- HW - Let's do some crypto
 - Reading -
    - Cypher Wars - https://archive.wired.com/wired/archive//2.11/cypher.wars.html
    - "Cryptic Controversy: U.S. Government Restrictions on Cryptography Exports and the Plight of Philip Zimmermann" - http://readingroom.law.gsu.edu/cgi/viewcontent.cgi?article=2264&context=gsulr

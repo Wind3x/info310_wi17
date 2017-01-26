@@ -22,4 +22,4 @@ Read over the breach report you chose and use it to answer the following questio
 5:30pm (17:30) Tuesday January 17th 2017
 
 ### Note
-Please include you UW NetID in the file name. The document should be a .docx file with 12 point font, 1" margins, and single line spacing. No other document types will be accepted.
+Please include your UW NetID in the file name. The document should be a .docx file with 12 point font, 1" margins, and single line spacing. No other document types will be accepted.
