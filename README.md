@@ -17,9 +17,10 @@ Grade breakdown:
 - quizes: 24%
 - final: 20%
 
-Late penalty: 
-- point ceiling goes down 10% daily, in 10% steps (24hrs from time due)
-- stops at 50% deduction
+Late penalty:
+- Applies to quizzes and assignments 
+- Point ceiling goes down 10% daily, in 10% steps (24hrs from time due)
+- Stops at 50% deduction
 
 Reading:
 - We will rely on a variety of online sources for information
