@@ -4,13 +4,13 @@ Note: This is not a collaborative homework assignment. You should complete this 
 
 ### Playing with PGP (12 points)
 1. Encrypt (4 points)
-	- Using the public key named "amckenna-pub-key.txt" in the "week 4" folder, encrypt a .txt file containing the phrase: "my name is [UW NetID] and my voice is my passport." all lower case, with you UW NetID inserted where the brackets are. The encrypted output must be in ASCII armored form. Perform the encryption in a secure manner and use the proper command-line tools to accomplish this task.
+	- Using the public key named "amckenna-pub-key.txt" in the "hw3" folder, encrypt a .txt file containing the phrase: "my name is [UW NetID] and my voice is my passport." all lower case, with you UW NetID inserted where the brackets are. The encrypted output must be in ASCII armored form. Perform the encryption in a secure manner and use the proper command-line tools to accomplish this task.
 	- In your main submission document include the commands you used to encrypt the .txt file. Submit the encrypted blob in either .asc or .txt format alongside the main submission document.
 2. Decrypt (4 points)
-	- Using the private key named "info310_wi17-priv-key.txt" in the "week 4" folder, decrypt the file named "super-secret.txt.asc" and include it's message in your main submission document. Perform the decryption in a secure manner and use the proper command-line tools to accomplish this task.
+	- Using the private key named "info310_wi17-priv-key.txt" in the "hw3" folder, decrypt the file named "super-secret.txt.asc" and include it's message in your main submission document. Perform the decryption in a secure manner and use the proper command-line tools to accomplish this task.
 	- In your main submission document include the commands you used to decrypt the .asc file.
 3. Verify (4 points)
-	- Using the public key named "amckenna-pub-key.txt" in the "week 4" folder, verify the signature contained in the "alternative-fact.txt" file. Is the signature valid? If not, the message may have been altered. Can you change it so it is valid again?
+	- Using the public key named "amckenna-pub-key.txt" in the "hw3" folder, verify the signature contained in the "alternative-fact.txt" file. Is the signature valid? If not, the message may have been altered. Can you change it so it is valid again?
 	- In your main submission document include the commands you used to verify the signature and the change you made to the original message to make it valid again.
 
 ### Hash Identification and Cracking (4 points)
