@@ -86,10 +86,10 @@ Correspondence:
 
 ## Week 5 - Networking
 - Tu - Down the rabbit hole
-- La - MITM the bots
+- La - Using Wireshark
 - Th - Network exploits
 - Qz - On this week's topics
-- HW - Network exploitation report
+- HW - TBD
 - Reading -
 
 ## Week 6 - Web Applications
