@@ -87,10 +87,10 @@ Correspondence:
 ## Week 5 - Networking
 - Tu - Down the rabbit hole
 - La - Using Wireshark
-- Th - Network exploits
+- Th - Network attacks
 - Qz - On this week's topics
-- HW - TBD
-- Reading -
+- HW - PCAP scavenger hunt
+- Reading - https://idea.popcount.org/2016-09-20-strange-loop---ip-spoofing/
 
 ## Week 6 - Web Applications
 - Tu - Web technologies
